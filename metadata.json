@@ -1,0 +1,6 @@
+{
+  "name": "Purple Smart Player",
+  "description": "High-performance streaming media player for Live TV, Movies, and Series with EPG support, playlist management, and advanced playback controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
